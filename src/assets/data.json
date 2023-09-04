@@ -13,10 +13,10 @@
     
     {
       "date": "03/07/2023",
-      "title": "Millenious - Ek Movie Katha",
-      "description": "This is a Movie App where it shows all the movie and their trailer by fetching data from TBDB API ",
-      "url": "https://millenious-movie-app.vercel.app/",
-      "imgSrc": "https://millenious-movie-app.vercel.app/assets/millenious-logo-f0226ad6.png"
+      "title": "Hotstar - clone",
+      "description": "This is a Movie App where it shows all the movie and their trailer by fetching data from API ",
+      "url": "https://hotstar-clone-vite.vercel.app/",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzUxVFJsWaq2WdyFaOKdwGJbUpCWLdJbJdLnOutJT17eCm-zfT894T&usqp=CAE&s"
     },
     {
       "date": "22/06/2023",
@@ -31,43 +31,6 @@
       "description": "This is the sample description about the project details that here i used async await to fetch data , created a chart graph of coins ups and down , all coins , coin card and coin realtime value",
       "url": "https://mycryptoo-app.netlify.app",
       "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
-    },
-    
-    {
-      "date": "10/05/2023",
-      "title": "PAPA CODER",
-      "description": "This is the sample description about this project that it is a simple UI made by react . Dependencies used in it react-router-dom ",
-      "url": "https://papacoder-ui-react.netlify.app",
-      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
-    },
-
-    {
-      "date": "28/04/2023",
-      "title": "Video Hunt",
-      "description": "This is the sample description about the project that it is a simple video player web application and it used Chakra Ui",
-      "url": "https://videoshunt-videoplayer.netlify.app",
-      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
-    },
-    {
-      "date": "05/04/2023",
-      "title": "MyDictionary-App",
-      "description": "This is the sample description about the project details that here i fetched data and showed data on screen that conts the mening of a word you have searched.",
-      "url": "https://my-dictionary-soumya.netlify.app",
-      "imgSrc": "https://media.istockphoto.com/id/882141558/photo/open-books-abstract-blur-and-defocused-bookshelf-in-library-interior-for-background.webp?b=1&s=612x612&w=0&k=20&c=ul1ic2YLZKDqGuvUUv-X00hPpoW5x-jm5b08CwNLCHA="
-    },
-    {
-      "date": "28/03/2023",
-      "title": "Text Utilities",
-      "description": "This is the sample description about the project details that here i created a box where you can put any text and can manupulate it on your way",
-      "url": "https://textutilsbysoumy.netlify.app",
-      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4VUJWw4fKmkyp_yvRdOk4OcClQpMaCAz__-aSTwjSI60H0LPmI3Zgbs2GIByDvAd04OU&usqp=CAU"
-    },
-    {
-      "date": "17/06/2023",
-      "title": "ApexPlus",
-      "description": "This is the sample description about the project details that i receive an assignment from a company apex plus you can explore all functionality available.",
-      "url": "https://assignment-apexplus.netlify.app",
-      "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipMy_WtkJuD3eyRtBUf5oMkyzcaNlrWufcA4gqVW=s680-w680-h510"
     }
     
   ]
