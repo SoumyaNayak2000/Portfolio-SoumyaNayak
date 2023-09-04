@@ -6,22 +6,6 @@ import { db } from "../firebase";
 import vg from "../assets/vg.png";
 
 const Contact = () => {
-  //   let temp = {
-  //     name: "",
-  //     email: "",
-  //     message: "",
-  //   };
-  //   const [inputs, setInputs] = useState(temp);
-  // //   const [submit , setSubmit] = useState({})
-
-  //   const submitHandler = (e) => {
-  //     e.preventDefault();
-  //   };
-  //   const inpuChangeHandler = (e) => {
-  //     setInputs({ ...inputs, [e.target.name]: e.target.value });
-  //     console.log(inputs)
-  //   };
-
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
